@@ -1,0 +1,22 @@
+{
+  "HOST": "127.0.0.1",
+  "PORT": 8080,
+  "PUBLIC_URL": "https://{HOST}:{PORT}",
+  "LOGFILE": "log_{timestamp}.txt",
+  "SAVEFILE": "save_{timestamp}.db",
+  "SAVE_INTERVAL": 60,
+  "STALE_TIME": 300,
+  "DEFAULT_WEBHOOK_SLEEP_TIME": 0.25,
+  "MAX_WEBHOOK_MSG_PER_MINUTE": 50,
+  "WEBHOOK_URL": "https://discord.com/api/webhooks/1446624965817274602/IxfnZJjmb1EdeBLv6zfIi-3hK1eQYYAqwRtggbOSoWbehJW3kgXWC4gHJazFkxgsiC13",
+  "AGENT_AUTH_TOKENS": {
+        "testtoken": { 
+            "added_by": "default"
+        }
+    },
+    "WEBGUI_USERS": {
+        "admin": {"password": "admin", "role": "admin"},
+        "analyst": {"password": "analyst", "role": "analyst"},
+        "guest": {"password": "guest", "role": "guest"}
+    }
+}
