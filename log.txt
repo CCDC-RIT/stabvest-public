@@ -1,0 +1,5 @@
+[2025-12-06_11-58-59] CRITICAL - load_config(): config file path not found: config.json2025-12-06 11:59:04 init_int_vars(Tailscale): 100.73.249.102 32 100.100.100.100
+[2025-12-06_12-01-04] CRITICAL - load_config(): config file path not found: config.json2025-12-06 12:01:08 init_int_vars(Tailscale): 100.73.249.102 32 100.100.100.100
+2025-12-06 12:01:09 main(): System details - {'os': 'Windows 10', 'executionUser': 'ZELUS\\Guac', 'executionAdmin': False, 'hostname': 'Zelus', 'ipadd': '100.73.249.102'}
+2025-12-06 12:01:09 main(): running firewall checks
+2025-12-06 12:01:11 main(): running interface checks
